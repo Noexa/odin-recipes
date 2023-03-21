@@ -1,0 +1,1 @@
+This project is an attempt do showcase the HTML knowledge I've learned from The Odin Project. This project should contain an index page that will link to other recipes. It is not meant to look pretty and is solely meant to be a test of HTML knowledge. 
